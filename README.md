@@ -1,1 +1,1 @@
-# Cake-Frontend-Website
+BAKE N STUDIO is a visually appealing and user-friendly cake shop website built using HTML, CSS, and JavaScript. It showcases a variety of delicious cakes with attractive designs and smooth animations. The site features an intuitive layout for easy navigation, enhancing user experience. This project demonstrates responsive design principles and dynamic interactivity to engage visitors. Ideal for those looking to explore front-end web development in a bakery or food-related context.
